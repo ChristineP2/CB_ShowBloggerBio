@@ -79,7 +79,7 @@ Optional Methods
 	// Module Entry Point
 	this.entryPoint			= "ShowBloggerBio";
 	// ForgeBox Slug, used for ForgeBox connectivity and auto-update features, leave blank or remove if not used
-	this.forgeBoxSlug		= "";
+	this.forgeBoxSlug		= "Show-Blogger-Bio"; 
 	
 	function configure(){
 		
